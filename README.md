@@ -1,1 +1,1 @@
-# Plant-Disease-Detection
+# Generalized-Plant-Leaf-Disease-Recognition-GzMPDD
